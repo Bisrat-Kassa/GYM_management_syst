@@ -1,0 +1,12 @@
+C:\Users\Bisrat\Desktop\C_sharp_Project\bin\Debug\C_sharp_Project.exe.config
+C:\Users\Bisrat\Desktop\C_sharp_Project\bin\Debug\C_sharp_Project.exe
+C:\Users\Bisrat\Desktop\C_sharp_Project\bin\Debug\C_sharp_Project.pdb
+C:\Users\Bisrat\Desktop\C_sharp_Project\obj\Debug\C_sharp_Project.csproj.AssemblyReference.cache
+C:\Users\Bisrat\Desktop\C_sharp_Project\obj\Debug\C_sharp_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bisrat\Desktop\C_sharp_Project\obj\Debug\C_sharp_Project.Coach.resources
+C:\Users\Bisrat\Desktop\C_sharp_Project\obj\Debug\C_sharp_Project.Memb.resources
+C:\Users\Bisrat\Desktop\C_sharp_Project\obj\Debug\C_sharp_Project.Properties.Resources.resources
+C:\Users\Bisrat\Desktop\C_sharp_Project\obj\Debug\C_sharp_Project.csproj.GenerateResource.cache
+C:\Users\Bisrat\Desktop\C_sharp_Project\obj\Debug\C_sharp_Project.csproj.CoreCompileInputs.cache
+C:\Users\Bisrat\Desktop\C_sharp_Project\obj\Debug\C_sharp_Project.exe
+C:\Users\Bisrat\Desktop\C_sharp_Project\obj\Debug\C_sharp_Project.pdb
